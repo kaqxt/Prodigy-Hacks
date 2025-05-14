@@ -1,1 +1,1 @@
-PIXI.game.prodigy.debugMisc.getAllPets();
+PIXI.game.prodigy.debugMisc.getAllPets(99);
